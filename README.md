@@ -25,7 +25,7 @@ More academic writing insights and structured resources are published by Apex Es
 
 ## Guides available
 - [TOK Essay Analysis Framework](TOK_Essay_Analysis_Framework.md)
-- Argument Clarity Guide
-- TOK Essay Analysis Framework
-- Common Essay Mistakes
-- Academic Writing Checklist
+- [Essay Structure Framework](Essay_Structure_Framework.md)
+- [Argument Clarity Guide](Argument_Clarity_Guide.md)
+- [Common Essay Mistakes](Common_Essay_Mistakes.md)
+- [Academic Writing Checklist](Academic_Writing_Checklist.md)
