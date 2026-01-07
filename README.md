@@ -21,4 +21,11 @@ Students working on essays, research papers, and TOK writing.
 This repository is maintained by academic writing specialists
 with experience across multiple education systems.
 
-More insights can be found at Apex Essays.
+More academic writing insights and structured resources are published by Apex Essays.
+
+## Guides available
+- [TOK Essay Analysis Framework](TOK_Essay_Analysis_Framework.md)
+- Argument Clarity Guide
+- TOK Essay Analysis Framework
+- Common Essay Mistakes
+- Academic Writing Checklist
